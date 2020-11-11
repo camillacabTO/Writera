@@ -371,6 +371,7 @@ footer a {
 
   .horizontal-cards {
     flex-direction: column;
+    max-width: 60%;
   }
 
   #contactus {
