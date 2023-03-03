@@ -119,8 +119,8 @@ header {
 
 #top-div .content-center {
   text-align: center;
-  font-size: 2.4rem;
-  max-width: 85%;
+  font-size: 2rem;
+  max-width: 80%;
   color: var(--primary-text-color);
   z-index: 10;
   padding: 1rem 0;
@@ -128,7 +128,7 @@ header {
 
 #top-div .content-center h1 {
   margin-bottom: 6rem;
-  font-size: 5rem;
+  font-size: 4.3rem;
 }
 
 #header-img {
@@ -345,8 +345,8 @@ footer a {
 
   #top-div .content-center {
     text-align: justify;
-    font-size: 1.9rem;
-    max-width: 95%;
+    font-size: 1.7rem;
+    /* max-width: 80%; */
     padding: 1rem 0;
   }
 
@@ -357,7 +357,7 @@ footer a {
   #top-div .content-center h1 {
     text-align: center;
     margin: 2rem 0;
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   #services {
